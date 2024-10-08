@@ -1,0 +1,7 @@
+alias n='nvim'
+alias r='. ranger'
+alias a='n ~/all/aliases'
+alias l='ls -ahl'
+alias jj='cd'
+alias h='n ~/.config/hypr/hyprland.conf'
+#alias w=
